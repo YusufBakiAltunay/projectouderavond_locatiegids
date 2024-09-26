@@ -1,0 +1,40 @@
+.alle{
+    background-color: aqua;
+    border-radius: 10px;
+    border: 5px black solid;
+    margin: 30px;
+}
+
+.eerstevraag{
+    border-radius: 10px;
+}
+
+.tweedevraag{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.regels{
+    border: 3px yellow solid;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.ziekmelden{
+    border: 3px yellow solid;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1, h2{
+    color: blue;
+    margin-left: 10px;
+}
+
+p, li{
+    color: red;
+    margin: 10px;
+    font-size: 20px;
+}
